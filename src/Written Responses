@@ -1,0 +1,24 @@
+Assignment 2 Written Responses
+
+1. a) this.getAvenue() > 0 
+      Answer: True
+
+   b) this.getAvenue() <= 5 
+      Answer: False
+
+   c) this.getStreet() != 1
+      Answer: false
+
+   d) !(this.getStreet() == 1)
+      Answer: false
+
+   e) this.frontIsClear()
+      Answer: false
+
+   f) !this.frontIsClear()
+      Answer: true
+
+   g) this.frontIsClear() == false
+      Answer: true
+
+2. Both statements behave the exact same way. Statement 1 says that if the robot can pick up an object, it will turn right, if it can't then it will turn left. Statement 2 says the same thing except that it asks if the robot can't pick up the object instead of whether it can. 
